@@ -15,4 +15,8 @@ Then create a project and install OnsenUI 2 with below command:
     meteor npm install onsenui react-onsenui --save
     
 ## Contribute
-I need your help to improve this project. If you want to patch a bug or add some feature: create a [pull request]()
+I need your help to improve this project and you can contribute with:
+1. Answer my question in [this OnsenUI thread](https://community.onsen.io/topic/638/onsenui-2-react-with-meteor-js-demo-app) about problems in this app.
+2. Report existing bugs and issues.
+3. Add some documentation or comments.
+4. Or if you want to patch a bug or add some feature: create a [pull request]()
