@@ -8,7 +8,7 @@ import demoButtonIndex from './demo/Button/Index.jsx';
 import demoCarouselIndex from './demo/Carousel/Index.jsx';
 import demoDialogIndex from './demo/Dialog/Index.jsx';
 import demoFABIndex from './demo/FAB/Index.jsx';
-// import demoIconIndex from './demo/Icon/Index.jsx';
+import demoIconIndex from './demo/Icon/Index.jsx';
 import demoInputIndex from './demo/Input/Index.jsx';
 
 import demoListIndex from './demo/List/Index.jsx';
@@ -20,7 +20,7 @@ const TableOfContent = ({navigator}) => {
     {_id: Random.id(), text: "Dialog", component: demoDialogIndex},
     {_id: Random.id(), text: "Floating Action Button", component: demoFABIndex},
     {_id: Random.id(), text: "Grid", component: NotImplementYet},
-    {_id: Random.id(), text: "Icon", component: NotImplementYet},
+    {_id: Random.id(), text: "Icon", component: demoIconIndex},
     {_id: Random.id(), text: "Input", component: demoInputIndex},
     {_id: Random.id(), text: "Lazy List (or Infinite Scrolling)", component: NotImplementYet},
     {_id: Random.id(), text: "List", component: demoListIndex},
