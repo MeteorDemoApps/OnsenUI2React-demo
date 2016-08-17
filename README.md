@@ -16,7 +16,10 @@ Then create a project and install OnsenUI 2 with below command:
     
 ## Contribute
 I need your help to improve this project and you can contribute with:
-1. Answer my question in [this OnsenUI thread](https://community.onsen.io/topic/638/onsenui-2-react-with-meteor-js-demo-app) about problems in this app.
-2. Report existing bugs and issues.
-3. Add some documentation or comments.
-4. Or if you want to patch a bug or add some feature: create a [pull request]()
+- Answer my questions in [this OnsenUI thread](https://community.onsen.io/topic/638/onsenui-2-react-with-meteor-js-demo-app) about problems in this app.
+- Report existing bugs and issues.
+- Add some documentation or comments.
+- Or if you want to patch a bug or add some feature: create a [pull request]()
+
+## Contributors
+@frankdiox help me to fix \[ [issue #1](https://github.com/MeteorDemoApps/OnsenUI2React-demo/issues/1) \]
